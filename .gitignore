@@ -1,0 +1,3 @@
+dados/brutos/*
+!dados/brutos/.gitignore
+analises/.ipynb_checkpoints/
